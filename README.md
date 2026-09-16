@@ -81,14 +81,23 @@ Rip currents are narrow, fast-flowing channels of water moving seaward, away fro
 
 The primary goal here is learning trim, paddle speed, and committing to a clean pop-up in the whitewater (the reformed foam after a wave breaks) before ever worrying about unbroken waves.
 
-### 1. Prone Positioning & the Sweet Spot
+### 1. Body & Foot Placement: Prone and Standing
 
-![Finding the sweet spot: correct prone positioning vs. too far forward or back](images/prone-positioning.jpg)
+![Surfboard placement guide: prone position laying down and surfing stance standing up](images/board-placement-guide.jpg)
 
-- Lie centered along the stringer (the board's middle line).
-- If your nose sinks under water (**pearling**), you're too far forward.
-- If your tail sinks and drags water behind you, you're too far back.
-- Arch your chest slightly upward, eyes looking ahead — not down at the deck.
+**Prone placement (laying down)**
+- Keep your chest and spine perfectly aligned with the board's **stringer** (center line) — natural lateral balance is impossible if you're off-center.
+- Your toes should just reach the tail of the board. Sliding too far forward submerges the nose; sliding too far back drags water and slows you down.
+- If your nose sinks under water (**pearling**), you're too far forward. If your tail sinks and drags water behind you, you're too far back — aim for the nose sitting roughly 1–2 inches (3–5cm) above the waterline.
+- Arch your chest up, keep your head up, eyes looking ahead — not down at the deck.
+- Keep your hands flat on the deck right next to your lower ribs — never hold the rails, as that disrupts your balance.
+
+**Stance placement (standing up)**
+- Align your feet exactly over the center stringer so you don't tip side to side.
+- **Front foot** at roughly a 45-degree angle, planted in the sweet spot (the middle third of the board, close to where your hands were).
+- **Back foot** perpendicular, at roughly 90 degrees, over the rear third of the board near the fins.
+- Stay low and athletic — knees bent to act as shock absorbers, hips and shoulders open, weight balanced over your center of gravity.
+- Head and eyes forward, looking where you want to go, not down at your feet.
 
 ### 2. Catching the Wave: Timing
 
@@ -134,8 +143,8 @@ Skip paddling around aimlessly — this is the fastest way to dial in your timin
 3. **Explosive press** — press up cleanly while driving your hips upward, creating space underneath your torso for your feet to come through.
 4. **Foot placement** — bring your back foot down over the fins, and swing your front foot directly into the space where your hands were.
 
-**The Athletic Stance**
-- Feet roughly shoulder-width apart, perpendicular to the stringer.
+**The Athletic Stance** — see the [full foot-placement breakdown](#1-body--foot-placement-prone-and-standing) above for exact foot angles; in short:
+- Front foot ~45°, back foot ~90°, both centered over the stringer.
 - Knees bent and springy; weight centered 50/50 between front and back foot.
 - Torso upright, head and eyes focused down the line — not at your feet.
 
