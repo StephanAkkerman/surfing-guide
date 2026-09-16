@@ -90,7 +90,42 @@ The primary goal here is learning trim, paddle speed, and committing to a clean 
 - If your tail sinks and drags water behind you, you're too far back.
 - Arch your chest slightly upward, eyes looking ahead — not down at the deck.
 
-### 2. The Pop-Up Mechanics
+### 2. Catching the Wave: Timing
+
+Before you can execute a pop-up, you have to actually catch the wave — and that's a timing problem as much as a paddling one. The same rhythm applies whether you're catching whitewater now or unbroken swell later: spot and align, build momentum, sprint, catch the glide, then pop up.
+
+![How to catch a wave: five phases from spotting the wave to popping up](images/catching-a-wave-steps.jpg)
+
+![Catching a wave from above: the approach and timing at each distance](images/catching-a-wave-topdown.jpg)
+
+In the whitewater specifically, waves behave differently than unbroken swell — whitewater doesn't lift you gently with gravity, it hits the tail like a wall of moving foam. Here's why your timing feels off in the shallows, and how to fix it.
+
+**Why you miss the foam (too slow)**
+Missing the wave in whitewater almost never comes down to arm strength — it usually comes down to three setup errors:
+
+- **Starting from a dead stop** — whitewater travels fast (15–20 km/h). If you're floating still when it hits, the foam bounces off your tail or washes around your rails instead of carrying you. Start paddling toward the beach 3–4 seconds before the foam reaches you; 3–4 smooth strokes is enough to get the board gliding so the foam catches a moving object, not a brick wall.
+- **Lifting your chest too high** — out of instinct to avoid a wave to the back of the head, beginners arch up too much. This pushes the tail into the water and lifts the nose, so the whitewater simply rolls under the board. Keep your ribs glued to the deck and your chest heavy so the board stays flat.
+- **Feet dangling in the water** — legs hanging off the rails act like twin boat anchors. Squeeze your thighs together and keep your feet on top of the deck, toes near the tail.
+
+**Why it collapses on you or sweeps past (too early / too far out)**
+If you paddle early and the wave dies out or dumps on you, your depth positioning is off:
+
+- **The "explosion zone"** — if the unbroken wave pitches over and crashes directly onto your back, you're sitting too far out, where the lip lands. Wait for the wave to break completely into a solid, clean wall of foam, and catch it once the energy is rolling forward steadily.
+- **The "dead foam" trap** — whitewater loses steam fast in deep water. Foam that's traveled 30+ meters often can't push a board and a rider anymore. Target fresh, frothy foam that just broke 5–10 meters behind you.
+
+**The beginner whitewater routine: stand-and-jump**
+Skip paddling around aimlessly — this is the fastest way to dial in your timing, standing in waist-deep water:
+
+1. Stand next to your board, holding it by the tail/rails, pointed straight at the beach.
+2. Look over your shoulder and pick a solid wall of white foam heading toward you (~4–5 meters away).
+3. Hop on and slide smoothly onto the board's sweet spot.
+4. Give 3 hard, deep paddle strokes, matching the direction the water is moving.
+5. Feel the "bump" — a distinct surge of acceleration as the foam hits your tail.
+6. Take one more stroke to confirm the board is planing on its own, then slide your hands flat under your chest and pop up.
+
+> **Self-check:** are you catching these waves by paddling flat the whole approach, or by standing next to the board and hopping on as the foam arrives? If it's the former, try the stand-and-jump method for a few waves — it isolates the timing from the paddling.
+
+### 3. The Pop-Up Mechanics
 
 ![Four steps of the pop-up: paddle, hand placement, hip drive, athletic stance](images/pop-up-technique.jpg)
 
@@ -104,7 +139,7 @@ The primary goal here is learning trim, paddle speed, and committing to a clean 
 - Knees bent and springy; weight centered 50/50 between front and back foot.
 - Torso upright, head and eyes focused down the line — not at your feet.
 
-### 3. Common Beginner Mistakes
+### 4. Common Beginner Mistakes
 
 - **Standing up in stages** (knees first, then hands) instead of one fluid motion — this is slower and less stable.
 - **Looking down** at your feet during the pop-up, which pulls your weight forward and pearls the nose.
@@ -144,7 +179,37 @@ Moving out back to catch unbroken "green" waves is the biggest jump in the sport
 - Identify the **peak** — the highest, steepest point where the wave will break first — and determine whether it's a **left** (peeling toward the surfer's left) or a **right** (peeling toward the surfer's right).
 - Angle your board at roughly **30–45 degrees** in the direction the wave is peeling during your final paddle strokes. This sets your inside rail early and avoids straight bottom-plunging into the flat trough.
 
-### 3. The Bottom Turn
+### 3. Wave Timing: The Take-Off Paradox
+
+This is the classic **take-off timing paradox** nearly every surfer battles: missing the wave out back because your board speed doesn't match the wave's, or paddling too early and getting caught by a crumbling wall. Diagnose and fix both sides by dialing in your positioning, visual cues, and paddle mechanics.
+
+**Problem 1: You're too slow and the wave rolls under you**
+When a wave passes underneath without taking you, your board speed was well below the wave's velocity at the critical pitch point.
+
+- **Fix your trim (chest down)** — most surfers lift their head and chest out of fear of pearling. Lower your chin toward the deck and weight your chest instead; this pushes the nose into the wave's downward slope so gravity does the work.
+- **Add the two final strokes** — the biggest mistake is quitting the paddle too early. When you feel the tail lift, don't reach for the rails yet — dig in for two more committed strokes down the face.
+- **Look back once or twice, not constantly** — turning your neck repeatedly rocks the rail side to side and kills momentum. Check alignment, then lock your eyes forward toward the beach.
+- **Paddle deeper, not faster** — fast, shallow strokes create turbulence, not thrust. Reach forward, bury your forearm fully, and pull all the way past your hip.
+
+**Problem 2: You paddle too early and it collapses behind you**
+Starting from a standstill too far outside means the wave breaks directly onto your back, or closes out before you match its speed.
+
+- **Sit at the "boil," not in the flat** — watch 3–4 sets break before paddling for anything. Position yourself 3–5 meters outside where waves transition from rolling lumps into steep, pitching walls — not 20 meters beyond it.
+- **Ditch the panic sprint** — sprinting the moment you see a lump 30 meters out burns your arms before the wave actually demands max effort. Turn late: coast to get the board moving, let the wave close the distance, and save your explosive effort for when it's 3–4 meters behind you.
+- **Triangulate your position** — the ocean drifts constantly. Line up two static objects on land (a tree in front of a house) to check you haven't quietly drifted too deep or too shallow while sitting on your board.
+
+**The three-phase timing framework**
+
+| Distance of wave | Paddle cadence | Visual check | Goal |
+|---|---|---|---|
+| 15–20 m out | Sitting / gentle repositioning | Identify the peak; turn the board perpendicular to shore | Align the board, waste zero energy |
+| 8–10 m out | Momentum paddle (~50% effort) | Quick glance back to confirm steepness | Break inertia, get the board gliding |
+| 2–4 m out | Sprint paddle (100% effort) | Eyes locked ahead, chest heavy on the deck | Match the wave's forward speed |
+| Wave lifts the tail | Two extra strokes | Feel gravity take over | Board planes on its own — pop up |
+
+> **Self-check:** is this happening more on unbroken green waves out back, or on reforming whitewater closer to shore? The fix differs — green waves need the timing framework above; whitewater needs the stand-and-jump drill in [Module 3](#module-3-level-1--the-beginner-whitewater--first-pop-up).
+
+### 4. The Bottom Turn
 
 - As you drop down the face, bend low through your knees and drive your weight into your inside rail (toeside or heelside).
 - Open your leading shoulder toward the shoulder of the wave. A solid bottom turn converts all your drop speed into horizontal wall speed — it's the foundation every other maneuver is built from.
