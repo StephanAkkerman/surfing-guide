@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a4d68"/>
+      <stop offset="100%" stop-color="#0f7a94"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Aerial view: ocean top, beach bottom -->
+  <rect x="0" y="0" width="900" height="460" fill="url(#water)"/>
+  <rect x="0" y="460" width="900" height="100" fill="#f2d9a1"/>
+  <path d="M0,460 Q450,448 900,460 L900,470 Q450,458 0,470 Z" fill="#ffffff" opacity="0.6"/>
+
+  <!-- Breaking whitewater bands, with a gap for the rip channel in the middle -->
+  <g fill="#ffffff" opacity="0.92">
+    <rect x="20" y="330" width="330" height="26" rx="13"/>
+    <rect x="550" y="330" width="330" height="26" rx="13"/>
+    <rect x="10" y="380" width="340" height="26" rx="13"/>
+    <rect x="545" y="380" width="345" height="26" rx="13"/>
+    <rect x="0" y="425" width="355" height="24" rx="12"/>
+    <rect x="540" y="425" width="360" height="24" rx="12"/>
+  </g>
+
+  <!-- Rip current channel: darker, choppy-looking water, narrower & deeper -->
+  <path d="M360,60 C330,160 320,260 345,340 C360,390 380,430 430,460 L470,460 C440,420 420,380 410,335 C400,255 415,155 450,60 Z"
+        fill="#0d3a4d" opacity="0.85"/>
+  <g stroke="#3d7688" stroke-width="2" opacity="0.6" fill="none">
+    <path d="M370,120 q30,20 0,40 q-30,20 0,40"/>
+    <path d="M420,100 q30,20 0,40 q-30,20 0,40 q-30,20 0,40"/>
+  </g>
+  <text x="405" y="45" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">Rip channel (calm, darker gap)</text>
+
+  <!-- WRONG path: straight back to shore against the rip -->
+  <g>
+    <path d="M405,220 L405,440" stroke="#e63946" stroke-width="5" stroke-dasharray="10 8" fill="none"/>
+    <polygon points="405,440 396,415 414,415" fill="#e63946"/>
+    <circle cx="405" cy="220" r="10" fill="#e63946"/>
+  </g>
+
+  <!-- RIGHT path: float, swim parallel to shore, then ride whitewater in -->
+  <g>
+    <path d="M405,220 L500,235 Q560,245 590,260" stroke="#2a9d8f" stroke-width="5" fill="none"/>
+    <path d="M590,260 Q640,290 640,340 Q640,390 610,430" stroke="#2a9d8f" stroke-width="5" fill="none"/>
+    <polygon points="610,430 598,408 620,412" fill="#2a9d8f"/>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(40,480)" font-size="16" fill="#0b3d4a">
+    <circle cx="10" cy="0" r="8" fill="#e63946"/>
+    <text x="26" y="6" font-weight="700">Wrong:</text>
+    <text x="95" y="6">fighting straight back against the current</text>
+
+    <circle cx="10" cy="30" r="8" fill="#2a9d8f"/>
+    <text x="26" y="36" font-weight="700">Right:</text>
+    <text x="90" y="36">swim parallel to shore, then let whitewater push you in</text>
+  </g>
+
+  <text x="450" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">Escaping a Rip Current</text>
+</svg>

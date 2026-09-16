@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eaf7fb"/>
+      <stop offset="100%" stop-color="#d7f1fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="340" fill="url(#sky3)"/>
+  <line x1="240" y1="0" x2="240" y2="300" stroke="#c7e4ee" stroke-width="2"/>
+  <line x1="480" y1="0" x2="480" y2="300" stroke="#c7e4ee" stroke-width="2"/>
+  <line x1="720" y1="0" x2="720" y2="300" stroke="#c7e4ee" stroke-width="2"/>
+
+  <!-- shared water line per panel -->
+  <g stroke="#8fd0e0" stroke-width="3">
+    <line x1="10" y1="255" x2="230" y2="255"/>
+    <line x1="250" y1="255" x2="470" y2="255"/>
+    <line x1="490" y1="255" x2="710" y2="255"/>
+    <line x1="730" y1="255" x2="950" y2="255"/>
+  </g>
+
+  <!-- ===== Step 1: Paddle ===== -->
+  <g transform="translate(20,150)">
+    <ellipse cx="100" cy="100" rx="95" ry="14" fill="#f2a154"/>
+    <!-- prone body -->
+    <path d="M35,90 Q100,72 175,88" stroke="#0b3d4a" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <circle cx="182" cy="86" r="12" fill="#0b3d4a"/>
+    <!-- arms mid-stroke -->
+    <path d="M120,84 Q95,55 70,95" stroke="#0b3d4a" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M90,86 Q120,110 145,80" stroke="#0b3d4a" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <!-- legs -->
+    <path d="M40,92 Q20,90 5,96" stroke="#0b3d4a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="120" y="35" text-anchor="middle" font-size="16" font-weight="700" fill="#0b3d4a">1. Paddle with Intent</text>
+  <text x="120" y="58" text-anchor="middle" font-size="12" fill="#0b3d4a">4–6 deep strokes until pushed</text>
+
+  <!-- ===== Step 2: Hand placement ===== -->
+  <g transform="translate(260,150)">
+    <ellipse cx="100" cy="100" rx="95" ry="14" fill="#f2a154"/>
+    <path d="M35,90 Q100,72 175,88" stroke="#0b3d4a" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <circle cx="182" cy="86" r="12" fill="#0b3d4a"/>
+    <!-- hands pressed flat near ribs -->
+    <path d="M120,84 Q112,96 108,104" stroke="#0b3d4a" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M140,85 Q135,97 132,105" stroke="#0b3d4a" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <circle cx="106" cy="106" r="5" fill="#0b3d4a"/>
+    <circle cx="131" cy="107" r="5" fill="#0b3d4a"/>
+    <path d="M40,92 Q20,90 5,96" stroke="#0b3d4a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="360" y="35" text-anchor="middle" font-size="16" font-weight="700" fill="#0b3d4a">2. Hands by the Ribs</text>
+  <text x="360" y="58" text-anchor="middle" font-size="12" fill="#0b3d4a">Palms flat — never grab the rails</text>
+
+  <!-- ===== Step 3: Hip drive ===== -->
+  <g transform="translate(500,150)">
+    <ellipse cx="100" cy="100" rx="95" ry="14" fill="#f2a154"/>
+    <!-- arched body, hips up, chest lifting -->
+    <path d="M35,95 Q75,60 110,72 Q150,85 175,70" stroke="#0b3d4a" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <circle cx="182" cy="65" r="12" fill="#0b3d4a"/>
+    <!-- arms extended pressing -->
+    <path d="M100,75 L98,102" stroke="#0b3d4a" stroke-width="6" stroke-linecap="round"/>
+    <path d="M130,78 L128,103" stroke="#0b3d4a" stroke-width="6" stroke-linecap="round"/>
+    <!-- back foot tucking under -->
+    <path d="M40,96 Q45,80 60,78" stroke="#0b3d4a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="35" text-anchor="middle" font-size="16" font-weight="700" fill="#0b3d4a">3. Press &amp; Drive Hips</text>
+  <text x="600" y="58" text-anchor="middle" font-size="12" fill="#0b3d4a">Create space under the torso</text>
+
+  <!-- ===== Step 4: Athletic stance ===== -->
+  <g transform="translate(750,120)">
+    <ellipse cx="90" cy="128" rx="95" ry="13" fill="#f2a154"/>
+    <!-- standing figure, knees bent -->
+    <circle cx="90" cy="30" r="12" fill="#0b3d4a"/>
+    <path d="M90,42 L90,80" stroke="#0b3d4a" stroke-width="8" stroke-linecap="round"/>
+    <!-- arms out for balance -->
+    <path d="M90,52 L55,45" stroke="#0b3d4a" stroke-width="6" stroke-linecap="round"/>
+    <path d="M90,52 L128,58" stroke="#0b3d4a" stroke-width="6" stroke-linecap="round"/>
+    <!-- bent legs, feet shoulder width, perpendicular to stringer -->
+    <path d="M90,80 Q65,95 62,118" stroke="#0b3d4a" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <path d="M90,80 Q118,98 122,120" stroke="#0b3d4a" stroke-width="7" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="840" y="35" text-anchor="middle" font-size="16" font-weight="700" fill="#0b3d4a">4. Athletic Stance</text>
+  <text x="840" y="58" text-anchor="middle" font-size="12" fill="#0b3d4a">Knees bent, eyes down the line</text>
+</svg>

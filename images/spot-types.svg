@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="sky2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eaf7fb"/>
+      <stop offset="100%" stop-color="#cdeffd"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="360" fill="url(#sky2)"/>
+
+  <!-- Panel dividers -->
+  <line x1="320" y1="0" x2="320" y2="330" stroke="#b9dbe6" stroke-width="2"/>
+  <line x1="640" y1="0" x2="640" y2="330" stroke="#b9dbe6" stroke-width="2"/>
+
+  <!-- ===== Panel 1: Beach Break ===== -->
+  <g>
+    <rect x="0" y="200" width="320" height="130" fill="#0f7a94"/>
+    <!-- sandbanks -->
+    <ellipse cx="90" cy="255" rx="55" ry="18" fill="#f2d9a1" opacity="0.85"/>
+    <ellipse cx="220" cy="235" rx="45" ry="14" fill="#f2d9a1" opacity="0.85"/>
+    <!-- waves breaking over banks -->
+    <path d="M35,240 q55,-30 110,0" stroke="#ffffff" stroke-width="5" fill="none" opacity="0.9"/>
+    <path d="M175,222 q45,-24 90,0" stroke="#ffffff" stroke-width="5" fill="none" opacity="0.9"/>
+    <!-- shore -->
+    <rect x="0" y="315" width="320" height="45" fill="#f2d9a1"/>
+    <text x="160" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#0b3d4a">Beach Break</text>
+    <text x="160" y="55" text-anchor="middle" font-size="13" fill="#0b3d4a">Shifting sandbanks — peaks move</text>
+  </g>
+
+  <!-- ===== Panel 2: Point Break ===== -->
+  <g transform="translate(320,0)">
+    <rect x="0" y="200" width="320" height="130" fill="#0f7a94"/>
+    <!-- headland -->
+    <path d="M0,330 L0,180 Q70,190 100,240 Q120,270 90,300 Q60,325 0,330 Z" fill="#8fae7d"/>
+    <path d="M0,180 Q70,190 100,240 Q120,270 90,300 Q60,325 0,330" fill="none" stroke="#5c7a4d" stroke-width="3"/>
+    <!-- peeling wave line following point -->
+    <path d="M110,225 Q170,245 230,265 Q270,278 305,295" stroke="#ffffff" stroke-width="6" fill="none" opacity="0.95"/>
+    <path d="M95,255 Q160,272 220,290 Q260,300 300,315" stroke="#ffffff" stroke-width="4" fill="none" opacity="0.6"/>
+    <!-- arrow showing long ride direction -->
+    <polygon points="305,295 292,286 296,302" fill="#e63946"/>
+    <rect x="0" y="315" width="320" height="45" fill="#eee2c6"/>
+    <text x="160" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#0b3d4a">Point Break</text>
+    <text x="160" y="55" text-anchor="middle" font-size="13" fill="#0b3d4a">Peels along a headland — long rides</text>
+  </g>
+
+  <!-- ===== Panel 3: Reef Break ===== -->
+  <g transform="translate(640,0)">
+    <rect x="0" y="200" width="320" height="130" fill="#0f7a94"/>
+    <!-- reef -->
+    <path d="M120,330 L120,270 Q140,255 160,270 Q175,258 195,270 Q210,258 230,270 Q245,260 260,272 L260,330 Z" fill="#7a6a55"/>
+    <path d="M120,270 Q140,255 160,270 Q175,258 195,270 Q210,258 230,270 Q245,260 260,272" fill="none" stroke="#5c4d3c" stroke-width="3"/>
+    <!-- hollow wave over reef -->
+    <path d="M60,255 Q100,220 140,232 Q160,238 175,222 Q190,208 205,225" stroke="#ffffff" stroke-width="6" fill="none" opacity="0.95"/>
+    <!-- deep water either side -->
+    <rect x="0" y="315" width="320" height="45" fill="#e7ddc9"/>
+    <text x="160" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#0b3d4a">Reef Break</text>
+    <text x="160" y="55" text-anchor="middle" font-size="13" fill="#0b3d4a">Fixed take-off — higher hazard</text>
+  </g>
+</svg>

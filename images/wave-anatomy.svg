@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eaf7fb"/>
+      <stop offset="100%" stop-color="#cdeffd"/>
+    </linearGradient>
+    <linearGradient id="oceanFar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4fb3c9"/>
+      <stop offset="100%" stop-color="#0f7a94"/>
+    </linearGradient>
+    <linearGradient id="waveBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a6b86"/>
+      <stop offset="100%" stop-color="#0a4d68"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="460" fill="url(#sky)"/>
+  <rect x="0" y="60" width="900" height="330" fill="url(#oceanFar)"/>
+
+  <!-- distant swell lines -->
+  <path d="M0,90 Q60,80 120,90 T240,90 T360,90 T480,90 T600,90 T720,90 T840,90 T900,90" stroke="#ffffff" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+  <path d="M0,120 Q60,110 120,120 T240,120 T360,120 T480,120 T600,120 T720,120 T840,120 T900,120" stroke="#ffffff" stroke-opacity="0.3" stroke-width="3" fill="none"/>
+
+  <!-- Main breaking wave silhouette (side profile, break moving right to left) -->
+  <path d="M120,360
+           C120,300 140,250 190,215
+           C230,187 250,150 245,110
+           C243,95 250,90 262,95
+           C300,112 300,150 285,175
+           C320,160 345,175 340,205
+           C336,228 300,235 275,232
+           C255,255 245,290 260,320
+           C270,345 260,365 230,375
+           C190,388 145,385 120,360 Z"
+        fill="url(#waveBody)"/>
+
+  <!-- curl / lip -->
+  <path d="M262,95 C300,112 300,150 285,175 C320,160 345,175 340,205 C336,228 300,235 275,232"
+        fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
+
+  <!-- whitewater foam at base -->
+  <path d="M60,370 q20,-14 40,0 q20,-14 40,0 q20,-14 40,0 q20,-14 40,0 q20,-14 40,0 v40 h-200 z"
+        fill="#ffffff" opacity="0.9"/>
+
+  <!-- trough / flat water in front -->
+  <path d="M340,300 C420,290 520,300 600,320 L900,340 L900,390 L340,390 Z" fill="#0d5f78"/>
+  <path d="M400,310 Q450,300 500,312 T620,315" stroke="#ffffff" stroke-opacity="0.3" stroke-width="3" fill="none"/>
+
+  <!-- shoreline / sand -->
+  <rect x="0" y="390" width="900" height="70" fill="#f2d9a1"/>
+  <path d="M0,390 Q450,378 900,390 L900,400 Q450,390 0,400 Z" fill="#ffffff" opacity="0.6"/>
+
+  <!-- Wind arrow (offshore) -->
+  <g transform="translate(660,60)">
+    <line x1="0" y1="0" x2="70" y2="0" stroke="#0b3d4a" stroke-width="3"/>
+    <polygon points="70,0 58,-7 58,7" fill="#0b3d4a"/>
+    <text x="10" y="-12" font-size="16" fill="#0b3d4a">Offshore wind</text>
+  </g>
+
+  <!-- Labels with leader lines -->
+  <g font-size="17" fill="#0b3d4a" font-weight="600">
+    <line x1="262" y1="95" x2="330" y2="55" stroke="#0b3d4a" stroke-width="1.5"/>
+    <text x="335" y="52">Peak</text>
+
+    <line x1="300" y1="150" x2="400" y2="120" stroke="#0b3d4a" stroke-width="1.5"/>
+    <text x="405" y="117">Lip / Curl</text>
+
+    <line x1="330" y1="205" x2="430" y2="200" stroke="#0b3d4a" stroke-width="1.5"/>
+    <text x="435" y="205">Shoulder</text>
+
+    <line x1="230" y1="290" x2="150" y2="270" stroke="#0b3d4a" stroke-width="1.5"/>
+    <text x="30" y="266">Face</text>
+
+    <line x1="500" y1="320" x2="560" y2="270" stroke="#0b3d4a" stroke-width="1.5"/>
+    <text x="565" y="266">Trough</text>
+
+    <line x1="120" y1="380" x2="90" y2="420" stroke="#0b3d4a" stroke-width="1.5"/>
+    <text x="40" y="438">Whitewater</text>
+  </g>
+
+  <text x="450" y="30" font-size="24" font-weight="700" fill="#0b3d4a" text-anchor="middle">Anatomy of a Breaking Wave</text>
+</svg>
