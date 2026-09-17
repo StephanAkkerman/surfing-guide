@@ -129,6 +129,31 @@ You're a guest in an ecosystem, and sharing it safely means watching for more th
 | **Sun protection** | Rash guard or wetsuit top, zinc or reef-safe sunscreen. | You burn faster on the water from reflection off the surface — reapply after every session longer than an hour. |
 | **Earplugs** | Surf-specific earplugs (e.g., vented silicone). | Repeated cold water and wind exposure causes "surfer's ear" (bone growth narrowing the ear canal) — a common, irreversible long-term injury. Cheap insurance. |
 
+### How to Size Your Board & Leash
+
+The table above gives ballpark ranges by skill level — here's how to narrow that down to your own height, weight, and fitness.
+
+**Board length — the quick eyeball method**
+Stand the board upright on its tail next to you: for an all-around board, the nose should land somewhere between your chin and the top of your forehead. Lean longer if you're less confident or less fit (more paddle power, easier catches); go shorter as your skill and paddle fitness increase.
+
+**Board volume — the formula that actually matters**
+Length and width can vary while volume stays the same, so volume (in liters) is the number worth calculating. A common rule of thumb:
+
+> **Volume (L) ≈ your weight (kg) × a skill multiplier**
+
+| Skill level | Multiplier | Example: 75kg / 165lb surfer |
+|---|---|---|
+| Beginner, low water fitness | 1.4–1.8 | ~105–135L |
+| Beginner, athletic/fit | 1.0–1.4 | ~75–105L |
+| Intermediate | 0.7–1.0 | ~53–75L |
+| Advanced | 0.5–0.7 | ~38–53L |
+
+Treat this as a starting point, not a rule — wave size, board shape, and how often you surf all shift it. More volume always means easier paddling and more forgiving catches; less volume means a more responsive board that rewards commitment (and punishes hesitation).
+
+**Leash — length and thickness**
+- **Length** — match it to your board length (an 8ft board gets an 8ft leash). Slightly longer gives more room to fall clear of the wave in bigger surf; too long risks tangling around your legs or fins.
+- **Thickness** — thin, light "competition" leashes cut drag in small, weak waves; thicker leashes (7mm+) handle the load of powerful or bigger waves without snapping. Match it to the conditions you're actually surfing, not just the board size.
+
 ### Board Maintenance
 
 - **Check before every session** — fin screws tight, leash plug and string free of cracks or fraying, no exposed foam from an old ding.
