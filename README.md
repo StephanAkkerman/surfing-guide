@@ -17,6 +17,7 @@ A practical, no-fluff guide to surfing — from understanding the ocean and stay
 9. [Progression Roadmap](#module-9-progression-roadmap)
 10. [Glossary](#glossary)
 11. [Pre-Session Checklist](#quick-pre-session-checklist-save--share)
+12. [Post-Session Checklist](#post-session-checklist)
 
 ---
 
@@ -76,6 +77,7 @@ The board itself is one of the most common sources of injury — to you and to o
   3. Stay relaxed and slightly curled; a stiff body absorbs an impact far worse than a loose one.
   4. Cover your head with your arms as you surface, in case your board — or someone else's — is coming back around on its leash right above you.
   5. Wait a beat before surfacing in shallow or crowded water rather than popping straight up.
+- **If your leash snaps** — don't chase the board through the impact zone. Swim yourself in first; you matter more than the board. Only retrieve it once you're clear of breaking waves or it's washed up on the sand.
 
 ### 5. Warm-Up & Stretching Before You Paddle Out
 
@@ -87,6 +89,31 @@ Cold muscles and a stiff back are the fast track to a strained shoulder or a twe
 - **Walking lunges with a twist** — 8–10 per side; mimics the pop-up's hip drive and stretches the hip flexors dynamically.
 - **Cat-cow stretch** — a few slow reps to mobilize the spine you'll be arching while paddling prone.
 - **Wrist and ankle circles** — easy to skip, but both joints take repeated strain from paddling and stance work.
+
+### 6. Getting Caught Inside
+
+Getting repeatedly caught by sets in the impact zone is exhausting, and it's where most beginner incidents happen — how you handle it matters more than how strong a paddler you are.
+
+- **Duck under or through, don't fight it** — turtle roll or duck dive every wave in a set as it arrives, even ones you're not trying to catch. Getting pushed backward while upright burns far more energy than ducking under.
+- **Use the lulls** — sets arrive in groups with a calmer gap between them. Use that gap to make real progress out back, rather than paddling flat-out the whole time.
+- **Move to the channel** — if you're getting worked repeatedly in one spot, sidestep into the channel (where waves aren't breaking) instead of continuing to punch straight through the impact zone.
+- **Stop before you're empty** — if your arms are dead and you're still getting caught, that's the moment to turn around and ride the whitewater to shore, not the moment to push harder.
+
+### 7. Checking Conditions & Knowing When Not to Go Out
+
+- **Use a forecast before you go** — surf forecast sites/apps show swell size, period, wind, and tide together, so you're not guessing at the car park. Cross-check with a live webcam of the spot if one exists.
+- **Learn the local flag system** — most patrolled beaches fly colored flags: green (low hazard), yellow (moderate, take care), red (high hazard, experienced surfers only), and red-and-yellow together marking the patrolled swimming zone (stay off it on a board). A black-and-white checkered flag marks a craft zone for surfboards/SUPs. Flags vary by country, so learn your specific beach's system.
+- **Match the size to your level, not your ego** — if it's noticeably bigger, more powerful, or more crowded with advanced surfers than you're used to, sit that session out. Overhead waves and strong currents escalate fast for a beginner.
+- **Never surf alone as a beginner** — go with a friend or an instructor, or at minimum tell someone on land where you are and when you expect to be back.
+
+### 8. Marine Life & Sharing the Water
+
+You're a guest in an ecosystem, and sharing it safely means watching for more than just other surfers.
+
+- **The stingray shuffle** — in warm, murky, or shallow water, shuffle your feet along the sand instead of stepping down normally. It warns a resting stingray instead of you stepping directly on one.
+- **Jellyfish** — check local warnings or signage. If stung, rinse with seawater (not fresh water), remove tentacles with a gloved hand or a card edge, and seek first aid for a serious reaction.
+- **Reef and rocks** — booties help on sharp reef or rocky bottoms. Scrub a reef cut clean promptly to avoid infection.
+- **Other water users** — give way to swimmers, and steer clear of boats, jet skis, and designated swimming zones. SUPs and bodyboarders share the same priority rules as surfers (see [Module 5](#module-5-lineup-etiquette--right-of-way)).
 
 ---
 
@@ -100,12 +127,22 @@ Cold muscles and a stiff back are the fast track to a strained shoulder or a twe
 | **Fins** | Beginner: soft, flexible fins for stability. Advanced: stiffer, smaller fins for responsiveness. | Thruster (3-fin) setups are the most common all-rounder; quads add speed down the line, singles add hold and flow. |
 | **Wax** | Basecoat on bare decks, topcoat matched to local water temp (cold, cool, warm, tropical). | Cross-hatch application creates grippy bumps rather than a slick smear — don't just circle in one spot. |
 | **Sun protection** | Rash guard or wetsuit top, zinc or reef-safe sunscreen. | You burn faster on the water from reflection off the surface — reapply after every session longer than an hour. |
+| **Earplugs** | Surf-specific earplugs (e.g., vented silicone). | Repeated cold water and wind exposure causes "surfer's ear" (bone growth narrowing the ear canal) — a common, irreversible long-term injury. Cheap insurance. |
+
+### Board Maintenance
+
+- **Check before every session** — fin screws tight, leash plug and string free of cracks or fraying, no exposed foam from an old ding.
+- **Repair dings promptly** — even a small crack lets water into the foam core, adding weight and risking delamination. Seal a fresh ding with wax or repair tape as a temporary fix, then patch it properly with resin or a solar-cure kit before the foam gets waterlogged.
+- **Rinse after every session** — fresh water clears salt and sand from the leash plug, fin boxes, and deck grip, extending their life.
+- **Store out of direct sun** — UV yellows and weakens foam and resin over time; a board bag or shaded rack adds years to a board's life.
 
 ---
 
 ## Module 3: Level 1 — The Beginner (Whitewater & First Pop-Up)
 
 The primary goal here is learning trim, paddle speed, and committing to a clean pop-up in the whitewater (the reformed foam after a wave breaks) before ever worrying about unbroken waves.
+
+> 💡 **Consider a lesson first.** This guide gets you through the mechanics, but an hour with a local instructor catches bad habits — like the wrong pop-up sequence — before they become muscle memory, and they'll know your specific beach's hazards better than any guide can.
 
 ### 1. Body & Foot Placement: Prone and Standing
 
@@ -323,6 +360,8 @@ Surfing is demanding on the shoulders, lower back, and hip flexors. A little con
 - **Core & lower back** — planks, bird-dogs, and back extensions protect against the chronic lower-back strain common in surfers from paddling in an arched position.
 - **Cold-water safety** — know the signs of hypothermia (shivering, confusion, loss of coordination) and set a personal time limit in cold water regardless of how good the waves are.
 - **Know your limits** — fatigue is when most incidents happen. If your arms are dead and you're getting caught inside repeatedly, it's time to come in.
+- **Protect your ears** — repeated cold water and wind exposure can cause "surfer's ear" (exostosis), a common and irreversible narrowing of the ear canal. Wear surf earplugs, especially in cold water or if you surf year-round.
+- **Hydration & nutrition** — a paddle-heavy session can burn 300–500+ calories an hour. Eat something an hour or two beforehand (skip a heavy meal right before paddling out) and rehydrate afterward, especially in warm climates or on long sessions.
 
 ### At-Home Exercises for Surf Fitness
 
@@ -378,11 +417,22 @@ A rough guide to what "next" looks like — everyone progresses at a different p
 
 ## Quick Pre-Session Checklist (Save & Share)
 
-- [ ] **Check conditions** — wind direction, tide height, swell period.
+- [ ] **Check the forecast and flags** — wind direction, tide height, swell period, and whether the size matches your level (see [Module 1, section 7](#7-checking-conditions--knowing-when-not-to-go-out)).
+- [ ] **Tell someone your plan** — where you're surfing and when you expect to be back, especially if surfing alone.
 - [ ] **Check gear** — leash string secure, fins tight, proper wax applied.
 - [ ] **5-minute shore watch** — locate the channel, identify rip currents, note where sets are breaking.
 - [ ] **Warm-up** — 5 minutes of dynamic mobility (see [Module 1, section 5](#5-warm-up--stretching-before-you-paddle-out)).
 - [ ] **Have fun & share waves** — respect the locals, follow priority, and keep safety first.
+
+---
+
+## Post-Session Checklist
+
+- [ ] **Rinse your gear** — board, wetsuit, and leash in fresh water to clear salt and sand.
+- [ ] **Check for injuries** — reef cuts, ear discomfort, or anything else worth cleaning up or icing now rather than later.
+- [ ] **Rehydrate and refuel** — replace what a heavy paddling session burns.
+- [ ] **Inspect your board** — new dings, loose fins, or leash wear to fix before the next session.
+- [ ] **Log it (optional)** — conditions, what worked, what to try next time — the fastest way to build your own local knowledge.
 
 ---
 
