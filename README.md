@@ -9,13 +9,14 @@ A practical, no-fluff guide to surfing — from understanding the ocean and stay
 1. [Ocean Knowledge & Safety](#module-1-ocean-knowledge--safety-the-non-negotiables)
 2. [Gear Essentials](#module-2-gear-essentials)
 3. [Level 1 — Beginner: Whitewater & First Pop-Up](#module-3-level-1--the-beginner-whitewater--first-pop-up)
-4. [Lineup Etiquette & Right of Way](#module-4-lineup-etiquette--right-of-way)
-5. [Level 2 — Intermediate: Green Waves & Angled Take-Offs](#module-5-level-2--the-intermediate-green-waves--angled-take-offs)
-6. [Level 3 — Advanced: Speed, Trimming & Turns](#module-6-level-3--the-advanced-speed-trimming--turns)
-7. [Fitness & Injury Prevention](#module-7-fitness--injury-prevention)
-8. [Progression Roadmap](#module-8-progression-roadmap)
-9. [Glossary](#glossary)
-10. [Pre-Session Checklist](#quick-pre-session-checklist-save--share)
+4. [Catching Waves by Type](#module-4-catching-waves-by-type)
+5. [Lineup Etiquette & Right of Way](#module-5-lineup-etiquette--right-of-way)
+6. [Level 2 — Intermediate: Green Waves & Angled Take-Offs](#module-6-level-2--the-intermediate-green-waves--angled-take-offs)
+7. [Level 3 — Advanced: Speed, Trimming & Turns](#module-7-level-3--the-advanced-speed-trimming--turns)
+8. [Fitness & Injury Prevention](#module-8-fitness--injury-prevention)
+9. [Progression Roadmap](#module-9-progression-roadmap)
+10. [Glossary](#glossary)
+11. [Pre-Session Checklist](#quick-pre-session-checklist-save--share)
 
 ---
 
@@ -157,7 +158,53 @@ Skip paddling around aimlessly — this is the fastest way to dial in your timin
 
 ---
 
-## Module 4: Lineup Etiquette & Right of Way
+## Module 4: Catching Waves by Type
+
+Everything in Modules 3 and 6 (positioning, paddle timing, the pop-up) changes shape depending on what kind of wave you're actually catching. This module breaks the same skills down by the three waves you'll meet, in order of difficulty, so you can jump straight to the one you're facing this session.
+
+### 1. The White Water Wave (Broken Wave)
+
+Perfect for absolute beginners. The wave has already broken and flows as a steady, churning wall of foam — you're riding its purely forward, horizontal push. *(Full breakdown of the paddle-timing mechanics for this wave: [Module 3, section 2](#2-catching-the-wave-timing).)*
+
+![Surf guide: positioning, catching, and pop-up timing for the white water wave](images/wave-type-whitewater.jpg)
+
+- **Positioning** — waist-to-chest-deep water, standing or lying on the sandbank where waves have already broken into foam. Look back over your shoulder for a fresh, bubbly wall of foam (avoid "dead" foam that's already fizzled out), and point your board 100% perpendicular (90°) to the shoreline — angled even slightly, the foam catches your rail and spins or flips you.
+- **Catching** — get on your board, centered over the stringer, when the foam is about 5 meters behind you. Start paddling *before* it arrives (3–4 smooth strokes), then keep your chest and chin heavy on the deck as the foam hits the tail, adding 2 more deep strokes to make sure you're fully in its grip. Don't grab the rails.
+- **Pop-up timing** — wait 2–3 seconds until the turbulent "bump" settles into a smooth, fast glide. The moment the board stops bouncing and planes forward on its own, hands flat under your chest, and pop up into a low stance.
+
+### 2. The Wave with a Shoulder (Re-forming / Peeling)
+
+Your gateway out back. This wave breaks at one point, then tapers into a gentle, unbroken slope (the shoulder). Because it's flatter, it needs more of your own paddling speed to catch.
+
+![Surf guide: positioning, catching, and pop-up timing for waves with a shoulder and green-faced waves](images/wave-type-shoulder-green.jpg)
+
+- **Positioning** — sit out back, 2–4 meters to the side of where the wave is starting to break (the peak) — this side zone is the "fringe." Look diagonally behind you for where the breaking foam meets the steep, unbroken green face, and angle your board 30–45° in the direction the wave is peeling so you start moving along it rather than plunging straight toward shore.
+- **Catching** — start paddling early, while the wave is still ~10 meters away — the shoulder lacks a peak's steep gravity, so you need to generate your own speed. Put in 5–6 strong, deep strokes diagonally across the slope, keeping your trajectory cutting across the face to stay in the pocket.
+- **Pop-up timing** — feel the wave lift you, then wait for a sideways "side slide" sensation as the board glides diagonally along the shoulder. Once you're being carried laterally rather than vertically and don't need to paddle anymore, hands flat, pop up, and lean gently into your inside rail to hold your speed.
+
+### 3. The Green-Faced Wave (Steep Take-Off)
+
+The real deal — an unbroken wave about to collapse, caught right at its steepest point. The drop is fast, gravity takes over instantly, and it demands speed, position, and full commitment. *(Full breakdown of the paddle-timing mechanics for this wave: [Module 6, section 3](#3-wave-timing-the-take-off-paradox).)*
+
+- **Positioning** — right in the take-off/peak zone, about 2–3 meters outside (seaward of) where the wave begins to break. Watch it build and steepen behind you, and point your board 100% perpendicular (90°) to the shoreline for a direct drop (or slightly angled with advanced rail control).
+- **Catching** — paddle 3–4 moderate strokes to get the board moving before the wave arrives, then transition to an explosive 2–3 stroke sprint as the tail lifts. Keep your chest and chin heavy on the deck to push the nose down into the descending face — fearing the pearl and lifting your chest instead drags the tail and either misses the wave or throws you over the lip.
+- **Pop-up timing** — watch and feel for the 45-degree tipping point: tail high, nose down, a distinct split-second of weightlessness as you accelerate down the face. Pop up the instant you feel that tilt — there's no room to hesitate.
+
+### Comparing the Three
+
+| | White Water Wave | Wave with a Shoulder | Green-Faced Wave |
+|---|---|---|---|
+| **Best for** | Absolute beginners | Early intermediate — the step out back | Committed intermediate/advanced |
+| **Where you sit** | Waist-to-chest-deep, on the broken foam | Out back, 2–4m to the side of the peak (the fringe) | Out back, 2–3m outside (seaward of) the peak |
+| **Board angle** | 100% perpendicular (90°) to shore | 30–45° in the direction it's peeling | 90° perpendicular (or slightly angled, advanced) |
+| **Paddle start** | When foam is ~5m behind you | Early — wave still ~10m away | Moderate strokes first, then an explosive sprint as the tail lifts |
+| **Paddle effort** | 3–4 steady strokes, +2 once foam hits | 5–6 strong, deep diagonal strokes | 3–4 moderate, then 2–3 explosive sprint strokes |
+| **Body position** | Chest & chin heavy, glued to the deck | Chest/back arched, cutting diagonally | Chest & chin heavy, pushing the nose down |
+| **Pop-up trigger** | Bouncy foam settles into a smooth glide | A lateral "side slide" as you glide diagonally | The 45° tipping point — nose down, brief weightlessness |
+
+---
+
+## Module 5: Lineup Etiquette & Right of Way
 
 Surfing has an unspoken code of conduct designed to keep everyone safe and avoid collisions. Learning it is as important as learning to pop up.
 
@@ -174,7 +221,7 @@ Surfing has an unspoken code of conduct designed to keep everyone safe and avoid
 
 ---
 
-## Module 5: Level 2 — The Intermediate (Green Waves & Angled Take-Offs)
+## Module 6: Level 2 — The Intermediate (Green Waves & Angled Take-Offs)
 
 Moving out back to catch unbroken "green" waves is the biggest jump in the sport — everything happens faster and you need to read the wave before it breaks.
 
@@ -225,7 +272,7 @@ Starting from a standstill too far outside means the wave breaks directly onto y
 
 ---
 
-## Module 6: Level 3 — The Advanced (Speed, Trimming & Turns)
+## Module 7: Level 3 — The Advanced (Speed, Trimming & Turns)
 
 ### 1. Generating Speed (Pumping)
 
@@ -242,7 +289,7 @@ Waves don't push you forever — you have to generate your own speed by moving b
 
 ---
 
-## Module 7: Fitness & Injury Prevention
+## Module 8: Fitness & Injury Prevention
 
 Surfing is demanding on the shoulders, lower back, and hip flexors. A little conditioning goes a long way toward more waves per session and fewer injuries.
 
@@ -254,7 +301,7 @@ Surfing is demanding on the shoulders, lower back, and hip flexors. A little con
 
 ---
 
-## Module 8: Progression Roadmap
+## Module 9: Progression Roadmap
 
 A rough guide to what "next" looks like — everyone progresses at a different pace, so use this as a checklist, not a deadline.
 
