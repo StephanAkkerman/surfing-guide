@@ -63,6 +63,31 @@ Rip currents are narrow, fast-flowing channels of water moving seaward, away fro
 - **Rule #2:** Stay calm, float, and swim/paddle **parallel to the beach** across the rip until you're clear of it, then let the whitewater on either side push you back toward the sand. Most rips are only 10–30 meters wide.
 - If you can't escape it, don't panic — rips dissipate a short distance offshore. Signal for help by raising an arm if you're in trouble, and conserve energy by floating.
 
+### 4. Board Handling & Falling Safely
+
+The board itself is one of the most common sources of injury — to you and to other people in the water — long before waves or currents come into it.
+
+- **Never haul your board in by the leash hand-over-hand** — treating the leash like a dog's lead and yanking the board back to you lets it swing and gain speed unpredictably before it reaches you. Swim or paddle to your board instead, or let the leash's slack drift it toward you gently.
+- **Never let go of your board near other people** — a loose board on a leash is a projectile at the end of a rope. If a wave is about to hit you and someone is behind or beside you, hold on and turtle roll or duck dive instead of ditching it (see [Module 6, section 1](#1-getting-past-the-impact-zone)).
+- **Protect your head on a fall** — cover the back of your head and neck with your arms as you go under, especially in whitewater or shallow water where your board, the bottom, or another surfer's board could be right where you land.
+- **How to fall (wipe out) well**:
+  1. Fall away from your board, not on top of it — push it away as you go down if you can.
+  2. Try to land flat (a "belly-flop" or starfish shape) rather than diving in vertically — it stops you plunging as deep and reduces the chance of hitting the bottom.
+  3. Stay relaxed and slightly curled; a stiff body absorbs an impact far worse than a loose one.
+  4. Cover your head with your arms as you surface, in case your board — or someone else's — is coming back around on its leash right above you.
+  5. Wait a beat before surfacing in shallow or crowded water rather than popping straight up.
+
+### 5. Warm-Up & Stretching Before You Paddle Out
+
+Cold muscles and a stiff back are the fast track to a strained shoulder or a tweaked lower back — paddling and popping up both demand a sudden range of motion you won't have without a short warm-up. Spend 5 minutes on dynamic movement (not static stretching — save that for after your session):
+
+- **Arm circles & shoulder rolls** — 30 seconds each direction; loosens the rotator cuff before hundreds of paddle strokes.
+- **Torso twists** — feet planted, rotate your upper body side to side to warm up the obliques and thoracic spine you'll use in turns.
+- **Hip circles & leg swings** — loosens the hip flexors you rely on for the pop-up and a low stance.
+- **Walking lunges with a twist** — 8–10 per side; mimics the pop-up's hip drive and stretches the hip flexors dynamically.
+- **Cat-cow stretch** — a few slow reps to mobilize the spine you'll be arching while paddling prone.
+- **Wrist and ankle circles** — easy to skip, but both joints take repeated strain from paddling and stance work.
+
 ---
 
 ## Module 2: Gear Essentials
@@ -299,6 +324,26 @@ Surfing is demanding on the shoulders, lower back, and hip flexors. A little con
 - **Cold-water safety** — know the signs of hypothermia (shivering, confusion, loss of coordination) and set a personal time limit in cold water regardless of how good the waves are.
 - **Know your limits** — fatigue is when most incidents happen. If your arms are dead and you're getting caught inside repeatedly, it's time to come in.
 
+### At-Home Exercises for Surf Fitness
+
+You don't need a gym — 15–20 minutes, 2–3 times a week, targeting the same systems surfing stresses: paddling shoulders and lats, a stable core, and explosive hip/leg power for the pop-up.
+
+| Goal | Exercise | Sets x Reps |
+|---|---|---|
+| Paddle power (shoulders, lats, upper back) | Push-ups | 3 x 10–15 |
+| Paddle power | Resistance band pull-aparts | 3 x 15 |
+| Paddle power | Superman holds | 3 x 20–30 sec |
+| Pop-up power (legs & hips) | Squat jumps | 3 x 10 |
+| Pop-up power | Burpees | 3 x 10 |
+| Pop-up power | Walking lunges | 3 x 12 per leg |
+| Core & balance | Plank | 3 x 45–60 sec |
+| Core & balance | Side plank | 3 x 30 sec per side |
+| Core & balance | Bird-dog | 3 x 10 per side |
+| Conditioning | Jump rope | 5–10 min |
+| Conditioning | Mountain climbers | 3 x 30 sec |
+
+This routine complements time in the water rather than replacing it — nothing builds paddling endurance quite like paddling, so pair it with a swim or prone-paddle session when you can.
+
 ---
 
 ## Module 9: Progression Roadmap
@@ -336,7 +381,7 @@ A rough guide to what "next" looks like — everyone progresses at a different p
 - [ ] **Check conditions** — wind direction, tide height, swell period.
 - [ ] **Check gear** — leash string secure, fins tight, proper wax applied.
 - [ ] **5-minute shore watch** — locate the channel, identify rip currents, note where sets are breaking.
-- [ ] **Warm-up** — 3 minutes of shoulder mobility, hip openers, and squat rotations.
+- [ ] **Warm-up** — 5 minutes of dynamic mobility (see [Module 1, section 5](#5-warm-up--stretching-before-you-paddle-out)).
 - [ ] **Have fun & share waves** — respect the locals, follow priority, and keep safety first.
 
 ---
